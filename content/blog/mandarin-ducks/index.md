@@ -1,5 +1,5 @@
 ---
-title: Mandarin Ducks
+title: mandarin ducks
 date: "2019-12-01T22:12:03.284Z"
 description: "走心 zǒu xīn // 走肾 zǒu shèn "
 ---
