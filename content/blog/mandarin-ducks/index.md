@@ -1,10 +1,10 @@
 ---
 title: Mandarin Ducks
 date: "2019-12-01T22:12:03.284Z"
-description: "走心（zou xin）; 走肾（zou shen）"
+description: "走心 zǒu xīn // 走肾 zǒu shèn "
 ---
 
-走心（zou xin）; 走肾（zou shen）
+走心 zǒu xīn // 走肾 zǒu shèn 
 Today we talk about 2 opposite types of person, usually be mentioned together.
 1.       走心：From your heart. 
 Someone devote a lot feelings, needs a strong emotional connection to finally experience sexual attraction with someone.

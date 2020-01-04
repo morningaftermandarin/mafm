@@ -1,7 +1,7 @@
 ---
 title: Huang Xiaoming
 date: "2019-12-02T22:12:03.284Z"
-description: 黄教主 / 黄晓明
+description: 黄教主 
 ---
 
 Who? Huang Xiaoming, Angela Baby's husband. A notoriously bad actor even more notorious for his beer chug fail.
