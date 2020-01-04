@@ -54,11 +54,12 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        Trash and Revelations from the light side of the wall. 
+
+        Thanks @ <strong>{author}</strong>
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+          Follow us on wechat
         </a>
       </p>
     </div>
