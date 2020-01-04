@@ -56,11 +56,13 @@ const Bio = () => {
       <p>
         Trash and Revelations from the light side of the wall. 
 
-        Thanks @ <strong>{author}</strong>
+        
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          Follow us on wechat
-        </a>
+          Follow us on wechat </a>
+
+          Thanks @ <strong>{author}</strong>
+        
       </p>
     </div>
   )

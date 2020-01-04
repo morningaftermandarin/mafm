@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `morning after mandarin`,
     author: `tipsyTutor`,
-    description: `Trash and Revelations from Beside the Wall`,
+    description: `Trash and Revelations from the light side of the wall`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `tipsyTutor`,
