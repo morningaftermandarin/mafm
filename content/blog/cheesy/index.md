@@ -10,3 +10,4 @@ What: Cheesy pickup line
 
 
 ![Chinese Salty Egg](./1.png)
+![Chinese Salty Egg](./2.png)
