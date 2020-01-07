@@ -6,6 +6,6 @@ description: "我的菜. wǒ de cài"
 
 我的菜
 
-How? He's my type
+how_ He's my type
 
 ![Chinese Salty Egg](./1.png)

@@ -1,11 +1,13 @@
 ---
 title: hookup
-date: "2019-12-01T22:12:03.284Z"
-description: "约炮"
+date: "2019-12-15T22:12:03.284Z"
+description: "约炮 yuè pǎo"
 ---
 
-How: 
-约炮（yue pao）
-约吗？（yue ma？）Wanna hookup?
+约炮 yuè pǎo
+
+what_ to hookup
+
+How_   约吗？（yue ma？）Wanna bang?
 
 ![Chinese Salty Egg](./1.png)
